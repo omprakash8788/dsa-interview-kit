@@ -97,6 +97,43 @@ What to focus on:
 - DFS / BFS
 - Traversals
 - Recursive structure
+
+### Priority & Choice-Based Structures
+` Learn how to select optimal elements efficiently.`
+
+### 7. Priority & Choice-Based Structures
+1. [Heap](./Heap)
+2. [Greedy](./Greedy)
+
+What to focus on:
+- Priority queues
+- Local vs global decisions
+
+### Graphs
+`Understand relationships and traversal across nodes.`
+### 8. Graphs
+
+1. [Graph Basics](./Graph)
+   
+What to focus on:
+- Visited tracking
+- Cycles
+- Dependencies
+
+### Dynamic Programming
+`Optimize problems with overlapping subproblems.`
+
+### 9. Dynamic Programming
+1. [1D DP](./DynamicProgramming)
+
+What to focus on:
+- State definition
+- Transitions
+- Memoization vs tabulation
+
+
+
+
   
 
 
