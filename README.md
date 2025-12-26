@@ -1,3 +1,13 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DSA](https://img.shields.io/badge/Focus-DSA-brightgreen.svg)](#)
+[![LeetCode](https://img.shields.io/badge/Source-LeetCode-orange.svg)](https://leetcode.com/)
+[![Problems](https://img.shields.io/badge/Problems-Curated-blue.svg)](#)
+[![Patterns](https://img.shields.io/badge/Approach-Pattern%20Based-success.svg)](#)
+[![Difficulty](https://img.shields.io/badge/Level-Core%20Concepts-lightgrey.svg)](#)
+[![Status](https://img.shields.io/badge/Status-Active-success.svg)](#)
+[![Language](https://img.shields.io/badge/Language-Java%20%7C%20JavaScript-blue.svg)](#)
+
+
 # DSA Interview Core
 
 A `curated collection` of **important Data Structures & Algorithms problems** selected from `extensive practice`.  
