@@ -131,6 +131,25 @@ What to focus on:
 - Transitions
 - Memoization vs tabulation
 
+### Advanced Topics
+`Cover these after strong fundamentals.`
+### 10. Advanced Topics
+
+1. [Bit Manipulation](./BitManipulation)
+
+What to focus on:
+- Bit-level operations
+- Prefix-based structures
+
+
+
+
+## Summary
+- 🟢 **Structured like a syllabus**
+- 🟢 **Clear learning order**
+- 🟢 **Noise-free**
+- 🟢 **Easy to navigate**
+- 🟢 **Built for long-term reference**
 
 
 
