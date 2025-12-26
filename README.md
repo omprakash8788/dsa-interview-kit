@@ -24,12 +24,79 @@ Each folder builds on concepts from the previous ones.
 #### 1️⃣ Basics (Foundation)
 Start here to build confidence and core logic.
 
-## Basics
+## Foundation 
+`Start here to build basic logic and familiarity with problem structures.`
+### 1. Foundation
 
 - [Arrays](./Arrays)
 - [Strings](./Strings)
 - [Hashing](./Hashing)
 - [Math](./Math)
 
+What to focus on:
+- Loops & conditions
+- Counting & frequency
+- Basic optimizations
+
+## Pattern-Based Optimization
+`Learn how to reduce time complexity using common patterns.`
+### 2. Pattern-Based Optimization
+
+1. [Two Pointers](./TwoPointers)
+2. [Sliding Window](./SlidingWindow)
+
+What to focus on:
+- Linear-time solutions
+- Range-based logic
+- Eliminating nested loops
+
+### Linear Data Structures
+`Understand memory flow and traversal behavior.`
+### 3. Linear Data Structures
+
+1. [Linked List](./LinkedList)
+2. [Stack](./Stack)
+3. [Queue](./Queue)
+   
+What to focus on:
+- Node manipulation
+- LIFO / FIFO behavior
+- Boundary cases
+
+### Search Logic
+`Learn structured decision making.`
+
+### 4. Search Logic
+1. [Binary Search](./BinarySearch)
+
+What to focus on:
+- Search space reduction
+- Binary search on answer
+- Edge conditions
+
+### Recursion & Decision Trees
+`Move to deeper problem-solving techniques.`
+
+### 5. Recursion & Decision Trees
+
+1. [Recursion](./Recursion)
+2. [Backtracking](./Backtracking)
+
+What to focus on:
+- Call stack understanding
+- State changes
+- Choice → explore → revert
+
+### Trees
+`Work with hierarchical data.`
+### 6. Trees
+
+1. [Binary Tree](./Tree)
+
+What to focus on:
+- DFS / BFS
+- Traversals
+- Recursive structure
+  
 
 
