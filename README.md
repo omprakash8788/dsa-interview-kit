@@ -1,6 +1,6 @@
 # DSA Interview Core
 
-A curated collection of **important Data Structures & Algorithms problems** selected from extensive practice.  
+A `curated collection` of **important Data Structures & Algorithms problems** selected from `extensive practice`.  
 This repository focuses on **core concepts, patterns, and clarity of approach**.
 
 ---
@@ -16,7 +16,7 @@ This repository focuses on **core concepts, patterns, and clarity of approach**.
 
 ## How to Use This Repository
 
-This repository is designed to be followed **step by step**.  
+This `repository` is designed to be followed **step by step**.  
 Each folder builds on concepts from the previous ones.
 
 ### Recommended Learning Flow
