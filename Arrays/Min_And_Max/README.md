@@ -52,6 +52,11 @@ Explanation: `minimum and maximum elements of array are 1 and 10000.`
 
 ---
 
+---
+## Dry Run
+
+![Dry Run](./notes/dryrun1.png)
+
 ## Algorithm
 
 ```text
@@ -67,12 +72,9 @@ For each element from index 1 to end:
 
 ---
 
-### Dry Run
-
-![Dry Run](./notes/dryrun1.png)
-
----
-
 ### Implementation
 
 See: `solution.js`
+
+---
+
