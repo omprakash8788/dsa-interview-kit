@@ -19,6 +19,7 @@ Input:
 arr = `[7, 10, 4, 3, 20, 15], k = 3`
 output : `7`
 
+---
 
 ### Observations
 
@@ -28,10 +29,14 @@ output : `7`
   - kth smallest element is at index k - 1
 - Array indexing is 0-based
 
+--- 
+
 ### Core Idea
 
 - Sort the array in ascending order
 - Directly access the element at index k - 1
+
+---
 
 ## Visual Reasoning (Notes)
 - Handwritten notes and dry runs were used to understand:
@@ -39,12 +44,13 @@ output : `7`
 - how the kth position maps to index k - 1
 - `(Refer to the images inside the notes/ folder.)`
 
+---
 
 ### Implementation
 
 See: `solution.js`
 
-
+---
 ## Algorithm
 
 ```text
