@@ -7,7 +7,6 @@
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)](#)
 [![Language](https://img.shields.io/badge/Language-Java%20%7C%20JavaScript-blue.svg)](#)
 
-
 # DSA Interview Core
 
 A `curated collection` of **important Data Structures & Algorithms problems** selected from `extensive practice`.  
