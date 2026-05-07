@@ -17,7 +17,7 @@ best-time-to-buy-sell-stock-2.js
 
 ---
 
-## Problem Statement
+## Problem Statements
 
 You are given an array `prices` where:
 
