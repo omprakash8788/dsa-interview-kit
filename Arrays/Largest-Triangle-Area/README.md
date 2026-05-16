@@ -2,7 +2,7 @@
 
 ---
 
-## 📘 Topic / Concept
+##  Topic / Concept
 - Geometry
 - Array
 - Brute Force
