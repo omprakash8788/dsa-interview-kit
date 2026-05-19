@@ -1,8 +1,8 @@
-# 🎯 Find Target Indices After Sorting Array
+#  Find Target Indices After Sorting Array
 
 ---
 
-## 📘 Topic / Concept
+##  Topic / Concept
 - Array
 - Sorting
 - Index Tracking
