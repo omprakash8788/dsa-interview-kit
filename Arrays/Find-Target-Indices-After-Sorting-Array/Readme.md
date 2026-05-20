@@ -9,13 +9,13 @@
 - Traversal
 - Counting Logic
 
-### 📂 Category
+###  Category
 - Easy
 - Interview + LeetCode Type Problem
 
 ---
 
-# 📄 Problem Statement
+#  Problem Statement
 
 - You are given a 0-indexed integer array nums and a target element target.
 
