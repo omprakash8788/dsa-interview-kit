@@ -47,7 +47,7 @@ The returned list must be sorted in increasing order.
 
 ---
 
-# 🧠 Understanding the Problem
+#  Understanding the Problem
 
 We need to:
 
