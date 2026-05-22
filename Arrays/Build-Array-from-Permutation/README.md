@@ -2,7 +2,7 @@
 
 ---
 
-## 📘 Topic / Concept
+##  Topic / Concept
 - Array
 - Index Mapping
 - Simulation
