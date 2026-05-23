@@ -9,7 +9,7 @@
 - Permutation
 - Double Indexing
 
-### 📂 Category
+###  Category
 - Easy
 - Interview + LeetCode Type Problem
 
