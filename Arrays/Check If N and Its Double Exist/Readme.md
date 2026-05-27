@@ -5,7 +5,7 @@
 - Nested Loop
 - Hash Set
 
-### 📂 Category
+###  Category
 - Easy
 - Interview + LeetCode
 
