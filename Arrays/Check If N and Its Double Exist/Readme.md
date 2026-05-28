@@ -1,6 +1,6 @@
 # 🔍 Check If N and Its Double Exist
 
-## 📘 Topic
+##  Topic
 - Array
 - Nested Loop
 - Hash Set
