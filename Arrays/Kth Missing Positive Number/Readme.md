@@ -5,7 +5,7 @@
 - Hash Set
 - Missing Numbers
 
-### 📂 Category
+###  Category
 - Easy
 - Interview + LeetCode
 
