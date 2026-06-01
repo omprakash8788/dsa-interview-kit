@@ -1,17 +1,17 @@
-# 🔢 Three Consecutive Odds
+#  Three Consecutive Odds
 
-## 📘 Topic
+##  Topic
 - Array
 - Traversal
 - Counting
 
-### 📂 Category
+###  Category
 - Easy
 - Interview + LeetCode
 
 ---
 
-# 📄 Problem Statement
+#  Problem Statement
 - Given an integer array arr, return true if there are three consecutive odd numbers in the array. Otherwise, return false.
 
 Given an integer array `arr`:
