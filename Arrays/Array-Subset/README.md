@@ -28,7 +28,7 @@ Conditions:
 
 ## Examples
 
-### Example 1
+## Example 1
 
 Input:  
 a = [11, 7, 1, 13, 21, 3, 7, 3]  
@@ -39,7 +39,7 @@ true
 
 ---
 
-### Example 2
+## Example 2
 
 Input:  
 a = [1, 2, 3, 4, 4, 5, 6]  
@@ -50,7 +50,7 @@ true
 
 ---
 
-### Example 3
+## Example 3
 
 Input:  
 a = [10, 5, 2, 23, 19]  
