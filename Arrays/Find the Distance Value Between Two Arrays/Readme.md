@@ -1,6 +1,6 @@
-# 📏 Find the Distance Value Between Two Arrays
+#  Find the Distance Value Between Two Arrays
 
-## 📘 Topic
+##  Topic
 - Array
 - Nested Loop
 - Math (Absolute Difference)
