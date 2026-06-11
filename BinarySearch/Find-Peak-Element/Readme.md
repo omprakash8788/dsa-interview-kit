@@ -2,7 +2,7 @@
 
 ---
 
-## 📘 Topic / Concept
+##  Topic / Concept
 - Array
 - Binary Search
 - Peak Finding
