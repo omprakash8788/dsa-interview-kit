@@ -1,1 +1,22 @@
-console.log("hi")
+
+class Node{
+    constructor(value){
+       this.value=value;
+       this.next=null
+    }
+}
+
+const n1 = new Node(10)
+const n2 = new Node(20)
+const n3 = new Node(30)
+n1.next=n2
+n2.next = n3
+
+let current = n1;
+console.log(current.value)
+// current = current.next;
+
+
+console.log(current)
+
+
